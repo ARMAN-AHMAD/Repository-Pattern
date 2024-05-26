@@ -1,0 +1,15 @@
+C:\Users\ARMAN AHMAD\source\repos\TestRepositoryPattern\TestRepositoryPattern\bin\Debug\TestRepositoryPattern.exe.config
+C:\Users\ARMAN AHMAD\source\repos\TestRepositoryPattern\TestRepositoryPattern\bin\Debug\TestRepositoryPattern.exe
+C:\Users\ARMAN AHMAD\source\repos\TestRepositoryPattern\TestRepositoryPattern\bin\Debug\TestRepositoryPattern.pdb
+C:\Users\ARMAN AHMAD\source\repos\TestRepositoryPattern\TestRepositoryPattern\obj\Debug\TestRepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\ARMAN AHMAD\source\repos\TestRepositoryPattern\TestRepositoryPattern\obj\Debug\TestRepositoryPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARMAN AHMAD\source\repos\TestRepositoryPattern\TestRepositoryPattern\obj\Debug\TestRepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\ARMAN AHMAD\source\repos\TestRepositoryPattern\TestRepositoryPattern\obj\Debug\TestRepositoryPattern.exe
+C:\Users\ARMAN AHMAD\source\repos\TestRepositoryPattern\TestRepositoryPattern\obj\Debug\TestRepositoryPattern.pdb
+C:\Users\ARMAN AHMAD\Desktop\C#\1274135-ARMAN AHMAD-BloodBank\1274135-ARMAN AHMAD\TestRepositoryPattern\bin\Debug\TestRepositoryPattern.exe.config
+C:\Users\ARMAN AHMAD\Desktop\C#\1274135-ARMAN AHMAD-BloodBank\1274135-ARMAN AHMAD\TestRepositoryPattern\bin\Debug\TestRepositoryPattern.exe
+C:\Users\ARMAN AHMAD\Desktop\C#\1274135-ARMAN AHMAD-BloodBank\1274135-ARMAN AHMAD\TestRepositoryPattern\bin\Debug\TestRepositoryPattern.pdb
+C:\Users\ARMAN AHMAD\Desktop\C#\1274135-ARMAN AHMAD-BloodBank\1274135-ARMAN AHMAD\TestRepositoryPattern\obj\Debug\TestRepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\ARMAN AHMAD\Desktop\C#\1274135-ARMAN AHMAD-BloodBank\1274135-ARMAN AHMAD\TestRepositoryPattern\obj\Debug\TestRepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\ARMAN AHMAD\Desktop\C#\1274135-ARMAN AHMAD-BloodBank\1274135-ARMAN AHMAD\TestRepositoryPattern\obj\Debug\TestRepositoryPattern.exe
+C:\Users\ARMAN AHMAD\Desktop\C#\1274135-ARMAN AHMAD-BloodBank\1274135-ARMAN AHMAD\TestRepositoryPattern\obj\Debug\TestRepositoryPattern.pdb
